@@ -1,0 +1,6 @@
+E:\workplace\Ronzl\CoreCode\Ronzl.Framework.Contract\bin\Debug\Ronzl.Framework.Contract.dll
+E:\workplace\Ronzl\CoreCode\Ronzl.Framework.Contract\bin\Debug\Ronzl.Framework.Contract.pdb
+E:\workplace\Ronzl\CoreCode\Ronzl.Framework.Contract\bin\Debug\Newtonsoft.Json.dll
+E:\workplace\Ronzl\CoreCode\Ronzl.Framework.Contract\obj\Debug\Ronzl.Framework.Contract.csprojResolveAssemblyReference.cache
+E:\workplace\Ronzl\CoreCode\Ronzl.Framework.Contract\obj\Debug\Ronzl.Framework.Contract.dll
+E:\workplace\Ronzl\CoreCode\Ronzl.Framework.Contract\obj\Debug\Ronzl.Framework.Contract.pdb

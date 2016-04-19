@@ -1,0 +1,9 @@
+E:\workplace\Ronzl\CoreCode\Ronzl.Framework.DAL\bin\Debug\Ronzl.Framework.DAL.dll
+E:\workplace\Ronzl\CoreCode\Ronzl.Framework.DAL\bin\Debug\Ronzl.Framework.DAL.pdb
+E:\workplace\Ronzl\CoreCode\Ronzl.Framework.DAL\bin\Debug\EntityFramework.dll
+E:\workplace\Ronzl\CoreCode\Ronzl.Framework.DAL\bin\Debug\Ronzl.Framework.Contract.dll
+E:\workplace\Ronzl\CoreCode\Ronzl.Framework.DAL\bin\Debug\Newtonsoft.Json.dll
+E:\workplace\Ronzl\CoreCode\Ronzl.Framework.DAL\bin\Debug\Ronzl.Framework.Contract.pdb
+E:\workplace\Ronzl\CoreCode\Ronzl.Framework.DAL\obj\Debug\Ronzl.Framework.DAL.csprojResolveAssemblyReference.cache
+E:\workplace\Ronzl\CoreCode\Ronzl.Framework.DAL\obj\Debug\Ronzl.Framework.DAL.dll
+E:\workplace\Ronzl\CoreCode\Ronzl.Framework.DAL\obj\Debug\Ronzl.Framework.DAL.pdb

@@ -1,0 +1,6 @@
+E:\workplace\Ronzl\CoreCode\Ronzl.Framework.Utility\bin\Debug\Ronzl.Framework.Utility.dll
+E:\workplace\Ronzl\CoreCode\Ronzl.Framework.Utility\bin\Debug\Ronzl.Framework.Utility.pdb
+E:\workplace\Ronzl\CoreCode\Ronzl.Framework.Utility\bin\Debug\Newtonsoft.Json.dll
+E:\workplace\Ronzl\CoreCode\Ronzl.Framework.Utility\obj\Debug\Ronzl.Framework.Utility.csprojResolveAssemblyReference.cache
+E:\workplace\Ronzl\CoreCode\Ronzl.Framework.Utility\obj\Debug\Ronzl.Framework.Utility.dll
+E:\workplace\Ronzl\CoreCode\Ronzl.Framework.Utility\obj\Debug\Ronzl.Framework.Utility.pdb

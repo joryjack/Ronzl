@@ -1,0 +1,86 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "_Core", "_Core", "{98986349-34B5-4F35-BF22-4602C44F95C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ronzl.Core.Config", "Ronzl.Core.config\Ronzl.Core.Config.csproj", "{2E54433D-18CB-4944-B106-2E709148C26D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "_FrameWork", "_FrameWork", "{95A5948C-E51C-4514-8633-D71BDF272C5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ronzl.Framework.Utility", "Ronzl.Framework.Utility\Ronzl.Framework.Utility.csproj", "{C9A4010F-1E3C-4EC5-8A10-520388453958}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lib", "Lib", "{60CD2467-4785-4AC5-B5D7-667446735E2C}"
+	ProjectSection(SolutionItems) = preProject
+		Lib\Castle.Core.dll = Lib\Castle.Core.dll
+		Lib\EntityFramework.dll = Lib\EntityFramework.dll
+		Lib\log4net.dll = Lib\log4net.dll
+		Lib\Newtonsoft.Json.dll = Lib\Newtonsoft.Json.dll
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ronzl.Core.Cache", "Ronzl.Core.Cache\Ronzl.Core.Cache.csproj", "{58D85EB2-759D-4D64-A5E4-8AF42F519CD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ronzl.Core.Log", "Ronzl.Core.Log\Ronzl.Core.Log.csproj", "{E7106547-C043-4581-AC92-BDF16C34AF3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ronzl.Framework.Contract", "Ronzl.Framework.Contract\Ronzl.Framework.Contract.csproj", "{B46B77A8-4F40-4150-842C-0D1CB2DB7743}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ronzl.Framework.DAL", "Ronzl.Framework.DAL\Ronzl.Framework.DAL.csproj", "{F9111ADE-DEA0-402B-8FD6-7123449C11B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ronzl.Core.Service", "Ronzl.Core.Service\Ronzl.Core.Service.csproj", "{765A21DC-A1C6-4D72-8884-CA851FBDA3F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ronzl.Core.Upload", "Ronzl.Core.Upload\Ronzl.Core.Upload.csproj", "{BD49FCE9-369E-46E2-96AE-F6C3BC1E2B40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E54433D-18CB-4944-B106-2E709148C26D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E54433D-18CB-4944-B106-2E709148C26D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E54433D-18CB-4944-B106-2E709148C26D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E54433D-18CB-4944-B106-2E709148C26D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9A4010F-1E3C-4EC5-8A10-520388453958}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9A4010F-1E3C-4EC5-8A10-520388453958}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9A4010F-1E3C-4EC5-8A10-520388453958}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9A4010F-1E3C-4EC5-8A10-520388453958}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58D85EB2-759D-4D64-A5E4-8AF42F519CD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58D85EB2-759D-4D64-A5E4-8AF42F519CD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58D85EB2-759D-4D64-A5E4-8AF42F519CD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58D85EB2-759D-4D64-A5E4-8AF42F519CD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7106547-C043-4581-AC92-BDF16C34AF3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7106547-C043-4581-AC92-BDF16C34AF3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7106547-C043-4581-AC92-BDF16C34AF3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7106547-C043-4581-AC92-BDF16C34AF3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B46B77A8-4F40-4150-842C-0D1CB2DB7743}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B46B77A8-4F40-4150-842C-0D1CB2DB7743}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B46B77A8-4F40-4150-842C-0D1CB2DB7743}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B46B77A8-4F40-4150-842C-0D1CB2DB7743}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9111ADE-DEA0-402B-8FD6-7123449C11B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9111ADE-DEA0-402B-8FD6-7123449C11B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9111ADE-DEA0-402B-8FD6-7123449C11B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9111ADE-DEA0-402B-8FD6-7123449C11B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{765A21DC-A1C6-4D72-8884-CA851FBDA3F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{765A21DC-A1C6-4D72-8884-CA851FBDA3F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{765A21DC-A1C6-4D72-8884-CA851FBDA3F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{765A21DC-A1C6-4D72-8884-CA851FBDA3F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD49FCE9-369E-46E2-96AE-F6C3BC1E2B40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD49FCE9-369E-46E2-96AE-F6C3BC1E2B40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD49FCE9-369E-46E2-96AE-F6C3BC1E2B40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD49FCE9-369E-46E2-96AE-F6C3BC1E2B40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2E54433D-18CB-4944-B106-2E709148C26D} = {98986349-34B5-4F35-BF22-4602C44F95C2}
+		{C9A4010F-1E3C-4EC5-8A10-520388453958} = {95A5948C-E51C-4514-8633-D71BDF272C5F}
+		{58D85EB2-759D-4D64-A5E4-8AF42F519CD5} = {98986349-34B5-4F35-BF22-4602C44F95C2}
+		{E7106547-C043-4581-AC92-BDF16C34AF3C} = {98986349-34B5-4F35-BF22-4602C44F95C2}
+		{B46B77A8-4F40-4150-842C-0D1CB2DB7743} = {95A5948C-E51C-4514-8633-D71BDF272C5F}
+		{F9111ADE-DEA0-402B-8FD6-7123449C11B6} = {95A5948C-E51C-4514-8633-D71BDF272C5F}
+		{765A21DC-A1C6-4D72-8884-CA851FBDA3F3} = {98986349-34B5-4F35-BF22-4602C44F95C2}
+		{BD49FCE9-369E-46E2-96AE-F6C3BC1E2B40} = {98986349-34B5-4F35-BF22-4602C44F95C2}
+	EndGlobalSection
+EndGlobal
